@@ -67,3 +67,27 @@ Then, a very detailed description on how to run an LLM yourself, how to accomoda
 
 Jetstream 2 offers two llms: Llama 3.3 70B and Deepseek R1 671B through OpenWebUI. Anyone with an ACCESS CI account can access it, as well as the OpenAI API access. In the near future, access might be restricted to people who have a JS2 allocation.
 
+I must say that DeepSeek R1 ran really fast during the demo.
+
+__Lightning talks (4:30pm-5:30pm)__
+
+Industry partners explain their offerings for 6 min each.
+
+#### Cerebras System
+- Available through three distinct NAIRR offerings
+- Hardware company that manufactures their own accelerators
+- Scalable architecture
+- Supports standard tooling, i.e. PyTorch. Their compiler handles the kernels internally
+
+#### CloudBank.org
+
+They manage the access to commercial clouds on behalf of NSF and the NAIRR Pilot.
+
+#### Google
+
+Pitch about how they offer their cloud resources for free through NAIRR.
+
+#### SambaNova Cloud
+
+Another provider of AI accelerators. They specialize on inference and provide their hardware through a cloud offering through NAIRR. Could be good to shift inference to a dedicated provider and use HPC and other cloud services for training.
+
