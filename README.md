@@ -49,3 +49,13 @@ This session was a brief description of all the resources for research and educa
 __Machine Learning vs Deep Learning (10:45am-12:15pm)__
 
 This is a hands on session about running models on some of the super computing clusters. It started with an introductory definition of Machine Learning, then we spinned up a jupyter lab instance in one HPC to run a notebook.
+
+__AWS Tools Showcase (1:00pm-2:45pm)__
+
+We got a description of AWS' array of services. Then we did a hands on demo of sage maker
+Bedrock seems to be the one better suited to scale infrastructure.
+- Bedrock supports RAG workflows implicitly based on knowledge bases created by the users (Relevant to AI Verde)
+- Bedrock supports running agents on the server side.
+- AWS has a free jupyter lab environment called studiolab. https://studiolab.sagemaker.aws/
+
+Sagemaker Studio has a nicely integrated JupyterLab that is intertwined with their own suite of services, such as S3, SageMaker, etc. This allows for integrated submission of jobs and data and configuration of endpoints right on the spot.
