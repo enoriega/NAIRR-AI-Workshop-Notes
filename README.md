@@ -59,3 +59,11 @@ Bedrock seems to be the one better suited to scale infrastructure.
 - AWS has a free jupyter lab environment called studiolab. https://studiolab.sagemaker.aws/
 
 Sagemaker Studio has a nicely integrated JupyterLab that is intertwined with their own suite of services, such as S3, SageMaker, etc. This allows for integrated submission of jobs and data and configuration of endpoints right on the spot.
+
+__AI Using Large Language Models (LLMs) (3:00pm-4:30pm)__
+We started with a technical explanation of the transformer architecture, used as a building block in LLMs.
+Followed by a list of use cases where LLM shines. Such as document summarization, sentiment analysis, machine translation, etc.
+Then, a very detailed description on how to run an LLM yourself, how to accomodate an LLM using quantization, how to find the appropriate model, etc.
+
+Jetstream 2 offers two llms: Llama 3.3 70B and Deepseek R1 671B through OpenWebUI. Anyone with an ACCESS CI account can access it, as well as the OpenAI API access. In the near future, access might be restricted to people who have a JS2 allocation.
+
