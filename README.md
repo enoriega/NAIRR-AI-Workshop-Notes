@@ -91,3 +91,15 @@ Pitch about how they offer their cloud resources for free through NAIRR.
 
 Another provider of AI accelerators. They specialize on inference and provide their hardware through a cloud offering through NAIRR. Could be good to shift inference to a dedicated provider and use HPC and other cloud services for training.
 
+---
+_04/03/25_
+
+__Introduction to PyTorch (9:15am-10:45am)__
+PyTorch provides two main components:
+1. Tensor library that supports GPU acceleration
+2. Neural network support through auto-grad
+
+Brief tour over the properties of PyTorch tensors: data type, device, tensor arithmetic, broadcasting rules.
+Brief tour over the neural network utilities and autograd functionality.
+
+There was a hands on session running a jupyter notebook on the Expanse HPC cloud from SDSC.
